@@ -2,10 +2,11 @@
 
 **Payments engineer going deep on crypto & security.** · São Paulo 🇧🇷
 
-Six years building payment systems — most recently two years on Brazil's instant-payment rails
-(PIX) at one of Latin America's largest banks. Reconciliation, settlement finality, idempotency,
-webhooks: the parts that must never fail. I'm now bringing that payments rigor to the newest rails —
-on-chain and **agentic payments** — with a focus on security.
+Six years building payment systems at some of Brazil's largest fintechs — **PagSeguro**,
+**Creditas**, and **Itaú**, where I was on the core team behind **PIX**, the instant-payment rail
+that moves 22M+ transfers a day. Reconciliation, settlement finality, idempotency, webhooks — the
+parts that must never fail. I'm now bringing that payments rigor to the newest rails: on-chain and
+**agentic payments**, with a focus on security.
 
 ### What I'm focused on
 - **Agentic payment security** — x402 and related protocols: EIP-3009 signing, settlement finality,
